@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1.0",
-  "latestVersion": "0.1.1",
+  "latestVersion": "0.1.6",
   "forceUpdate": false,
-  "message": "E disponibile One 0.1.1. Aggiorna per le ultime correzioni.",
+  "message": "È disponibile One 0.1.6 con esportazione PDF formazioni e correzioni generali.",
   "downloadUrl": "https://github.com/fabianobatt/one-updates/releases/latest"
 }
