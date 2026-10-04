@@ -1,0 +1,11 @@
+{
+  "version": "0.1.8",
+  "notes": "Novità versione 0.1.8: risoluzione offset tracking animazioni, sincronizzazione video e ottimizzazioni lavagna tattica.",
+  "pub_date": "2026-10-04T15:33:21Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUzlWbDNKMGJzV3dRci81SVZXalpLVnZqWFZ4VVpnVVNhYUNDOGlkcmFQTHRyTUxMWVdrd0lxckNxSU4xOUdtbUtoTnpEdmVTN3o5ZDJPTmgxb0gxc2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI4MDAwCWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjEuOF94NjQtc2V0dXAuZXhlCkJQYzZEUWp5eU51YTlSVm5OL281QUVqQW91M0RCK2luSkdOSzB3dGw4RzAxNmpjWE5JakR0UTZPOVhVSDNuZWdoaUFsMFhWTXVJMS9Rdzh5VGxuS0FnPT0K",
+      "url": "https://github.com/fabianobatt/one-updates/releases/download/0.1.8/One.-.The.Coach.Hub_0.1.8_x64-setup.exe"
+    }
+  }
+}
