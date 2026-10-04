@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1.0",
-  "latestVersion": "0.1.6",
+  "latestVersion": "0.1.7",
   "forceUpdate": false,
-  "message": "È disponibile One 0.1.6 con esportazione PDF formazioni e correzioni generali.",
+  "message": "È disponibile One 0.1.7 con nuova lavagna tattica, menu a tendina, proporzioni perfette e schemi per esercitazioni.",
   "downloadUrl": "https://github.com/fabianobatt/one-updates/releases/latest"
 }
