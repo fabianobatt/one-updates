@@ -1,10 +1,10 @@
 {
   "version": "0.1.9",
   "notes": "Novità versione 0.1.9: modalità tag 1 clic e doppio clic (start/stop in tempo reale con timer REC), gestione ed eliminazione tag predefiniti e personalizzati, esportazione e importazione progetti (.oproj) e file XML Sportscode/Wyscout, guida e tutorial multilingua aggiornati.",
-  "pub_date": "2026-10-13T18:07:41Z",
+  "pub_date": "2026-10-13T19:35:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUy9QWUszZE1rOFpkWEpDWjVqU2JPNDlMY00xRnBPK053SDJubmJabk5uVnBrN0lKaFJWTlpkd0IzYW81U1BwMVllMHEzL3RVa0lPb2hlOVFiWk14dEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTE0ODU3CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjEuOV94NjQtc2V0dXAuZXhlCmtub3I4cVJtNUprOHdNRUlMV0hhczNLM0VROWM1ZnFQeC9zYWNiSnUxNmRJL2ZQWlFtdnZEQU1Jek12R2Qxd3dpRGgybDVndnpYVXZRTG9oZm8vYUJBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psU3loQitoeTJsSHNlUnhzbzhtVk5odjlpRm4wNUNTeW9zQk1lSGoycmh2eVJVMmRRUERGMmRWSTNBMmlQQitRenJkeGJrRjNQRytBUEJEazQ2MjhwMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwMTUwCWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjEuOV94NjQtc2V0dXAuZXhlCjhKUFpaVVc4S2N4aC9KQ3p6bGQxcElxNTJUSXNsQnAvVHdMWG0waHkrVnA5ZG5QbStGTUd2WmcxQ0dqZ1FJbzREbjFKNFIwZVEwNG5sTWl1TDZpSkJnPT0K",
       "url": "https://github.com/fabianobatt/one-updates/releases/download/0.1.9/One.-.The.Coach.Hub_0.1.9_x64-setup.exe"
     }
   }
