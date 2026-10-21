@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1.0",
-  "latestVersion": "0.1.9",
+  "latestVersion": "0.2.1",
   "forceUpdate": false,
-  "message": "È disponibile One 0.1.9 con modalità tag 1 clic e doppio clic, export/import progetti e file XML, e guida/tutorial aggiornati.",
+  "message": "È disponibile One 0.2.1 con ricalcolo in tempo reale del misuratore di distanza, gestione note in Crea Video e rendering proporzionale ad alta risoluzione.",
   "downloadUrl": "https://github.com/fabianobatt/one-updates/releases/latest"
 }

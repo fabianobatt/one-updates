@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "Novità versione 0.1.9: modalità tag 1 clic e doppio clic (start/stop in tempo reale con timer REC), gestione ed eliminazione tag predefiniti e personalizzati, esportazione e importazione progetti (.oproj) e file XML Sportscode/Wyscout, guida e tutorial multilingua aggiornati.",
-  "pub_date": "2026-10-13T19:35:50Z",
+  "version": "0.2.1",
+  "notes": "Novità versione 0.2.1: ricalcolo in tempo reale del misuratore di distanza calibrato, opzione per mostrare o nascondere le note nei video esportati e nella timeline in Crea Video, ridimensionamento proporzionale delle note in ogni risoluzione e ottimizzazioni generali di stabilità.",
+  "pub_date": "2026-10-21T23:24:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psU3loQitoeTJsSHNlUnhzbzhtVk5odjlpRm4wNUNTeW9zQk1lSGoycmh2eVJVMmRRUERGMmRWSTNBMmlQQitRenJkeGJrRjNQRytBUEJEazQ2MjhwMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwMTUwCWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjEuOV94NjQtc2V0dXAuZXhlCjhKUFpaVVc4S2N4aC9KQ3p6bGQxcElxNTJUSXNsQnAvVHdMWG0waHkrVnA5ZG5QbStGTUd2WmcxQ0dqZ1FJbzREbjFKNFIwZVEwNG5sTWl1TDZpSkJnPT0K",
-      "url": "https://github.com/fabianobatt/one-updates/releases/download/0.1.9/One.-.The.Coach.Hub_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psU3dqM2NremhIN1ZyYW8vazFHWTBLbnRTZGJiaTZRWFg2V1Q5ZDZMNm1BUmg0MFhqdVJSL2FjditRY1VZY29aQ1ZKeXY1VzZQNkkzcGVBdnhYMEFKMVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI1MDY4CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuMV94NjQtc2V0dXAuZXhlCmxhQXZvMEJFTGpCVkJ4N2hhZUp1OXNhbDFRMFpUbmZrRmE5Z2tJMkRmUkJuai95YUt6Q3Y5MDNyS2NXbDhJa2p3WEN4TnJnNy9FcHFkU21reUsxakRnPT0K",
+      "url": "https://github.com/fabianobatt/one-updates/releases/download/0.2.1/One.-.The.Coach.Hub_0.2.1_x64-setup.exe"
     }
   }
 }
