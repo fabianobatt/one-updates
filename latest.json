@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Novità versione 0.2.1: ricalcolo in tempo reale del misuratore di distanza calibrato, opzione per mostrare o nascondere le note nei video esportati e nella timeline in Crea Video, ridimensionamento proporzionale delle note in ogni risoluzione e ottimizzazioni generali di stabilità.",
-  "pub_date": "2026-10-21T23:24:31Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psU3dqM2NremhIN1ZyYW8vazFHWTBLbnRTZGJiaTZRWFg2V1Q5ZDZMNm1BUmg0MFhqdVJSL2FjditRY1VZY29aQ1ZKeXY1VzZQNkkzcGVBdnhYMEFKMVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI1MDY4CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuMV94NjQtc2V0dXAuZXhlCmxhQXZvMEJFTGpCVkJ4N2hhZUp1OXNhbDFRMFpUbmZrRmE5Z2tJMkRmUkJuai95YUt6Q3Y5MDNyS2NXbDhJa2p3WEN4TnJnNy9FcHFkU21reUsxakRnPT0K",
-      "url": "https://github.com/fabianobatt/one-updates/releases/download/0.2.1/One.-.The.Coach.Hub_0.2.1_x64-setup.exe"
-    }
-  }
+    "version":  "0.2.2",
+    "notes":  "NovitÃ  versione 0.2.2: supporto completo e conversione automatica per file video .mts in standard MP4, integrazione nei selettori file di progetto ed editor video, e ottimizzazioni generali di stabilitÃ  e prestazioni.",
+    "pub_date":  "2026-11-08T13:56:28Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUzE0M3Jqa01QTDBwMXFSN21GUS9TYklHRnRMaElhZ05DOVEvNENHU0VZTDNyN2UxZnR5dXhwaTcvYWZXTW5GYUFBQXo3eHEvRDN6N2ZiZFR3Wm4zaHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ2MTg3CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuMl94NjQtc2V0dXAuZXhlCjlGMEcvVHNmOTV6UEhIZ1JUeHF4bDJaaHZMNjExT040UVNjS2tYcmkrckZpbEU1WkRCeDg2NHJpeCt6R21OVkJPaCtWSU9sNlFFdTJzU3JPcmtZTUJBPT0K",
+                                             "url":  "https://github.com/fabianobatt/one-updates/releases/download/0.2.2/One.-.The.Coach.Hub_0.2.2_x64-setup.exe"
+                                         }
+                  }
 }
