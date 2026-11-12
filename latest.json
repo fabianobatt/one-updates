@@ -1,10 +1,10 @@
 {
     "version":  "0.2.3",
     "notes":  "Novità versione 0.2.3: playlist interattiva con ordinamento drag-and-drop e tasti rapidi, persistenza automatica della playlist tra sessioni, correzione visibilità e sovrapposizione clip, lavagna tattica con stili Classica, Pro Dark e Glass Cyan istantanei, ridimensionamento rapido attrezzi e condivisione Telegram unificata.",
-    "pub_date":  "2026-11-12T20:28:25Z",
+    "pub_date":  "2026-11-12T20:55:40Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUzNxdUFtVEQxbDg1SXc0Nm9QaFpKQ0VDME5Mc1NteDlKcWYzZHYwSXN1VnRsR2V5MWQrQlo5R3F4eitrSjhPQTlaWFpNNFNSZ3dobWFKelhlRHFtVEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE1MzAzCWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuM194NjQtc2V0dXAuZXhlCjRuYi9xMm4yeUFNWTl6dTZCZ1BlL3NCOUd0czZRaCtucmE2NW5UVEJ3UVZzNm5yeDlON095RkhDRGw4aDlnaEhOa2F2QXVYTzdnbk9ZV01VSnl5a0FBPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUzFJU1VjcFMzRTRPNEN0cjJYSFNMSlFzYzIvd2djTFlEc1k5YmFIU1BzMG1vbjVyQm5GNlRidENCVzhOM241MDlkeWlIVEQ0bC9HYndBUTd6bjhZSXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE2OTM5CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuM194NjQtc2V0dXAuZXhlCitYcCtpdkdnRW9MYkgrY0NGemh6SVJEc0RtTnZWcmptSldWS2hSeUZWMERkV2gyanY5c2FXRWFILzMrWTh0RXkxenRRNXFzaWdnaVRhdXQwcHJIM0JnPT0K",
                                              "url":  "https://github.com/fabianobatt/one-updates/releases/download/0.2.3/One.-.The.Coach.Hub_0.2.3_x64-setup.exe"
                                          }
                   }
