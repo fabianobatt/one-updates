@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.2",
-    "notes":  "NovitÃ  versione 0.2.2: supporto completo e conversione automatica per file video .mts in standard MP4, integrazione nei selettori file di progetto ed editor video, e ottimizzazioni generali di stabilitÃ  e prestazioni.",
-    "pub_date":  "2026-11-08T13:56:28Z",
+    "version":  "0.2.3",
+    "notes":  "Novità versione 0.2.3: playlist interattiva con ordinamento drag-and-drop e tasti rapidi, persistenza automatica della playlist tra sessioni, correzione visibilità e sovrapposizione clip, lavagna tattica con stili Classica, Pro Dark e Glass Cyan istantanei, ridimensionamento rapido attrezzi e condivisione Telegram unificata.",
+    "pub_date":  "2026-11-12T20:05:18Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUzE0M3Jqa01QTDBwMXFSN21GUS9TYklHRnRMaElhZ05DOVEvNENHU0VZTDNyN2UxZnR5dXhwaTcvYWZXTW5GYUFBQXo3eHEvRDN6N2ZiZFR3Wm4zaHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQ2MTg3CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuMl94NjQtc2V0dXAuZXhlCjlGMEcvVHNmOTV6UEhIZ1JUeHF4bDJaaHZMNjExT040UVNjS2tYcmkrckZpbEU1WkRCeDg2NHJpeCt6R21OVkJPaCtWSU9sNlFFdTJzU3JPcmtZTUJBPT0K",
-                                             "url":  "https://github.com/fabianobatt/one-updates/releases/download/0.2.2/One.-.The.Coach.Hub_0.2.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDNsdXdGN3psUzdHOC9RTTNKdzNoZnF4cWZDaUgyY1VZbUhLWTBNRlo3a1AvY1ptMzdNeWlsek1oeTljZDM0RTI1VXJlMVhLR1dZSjc5alN1a1JxZFpWcXY2R2dGTVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTEzOTE4CWZpbGU6T25lIC0gVGhlIENvYWNoIEh1Yl8wLjIuM194NjQtc2V0dXAuZXhlCmg0a0RucURNYlpBTUtQbC9JeUZ5TnBzVERkT3dFWG1PVTJMWmpCWFdsUEJKNzlBMFBkeGFXcWhDRHhYYWd0ZVVRWkduYWgwaE9MRDV6TzI1dFhvdkFnPT0K",
+                                             "url":  "https://github.com/fabianobatt/one-updates/releases/download/0.2.3/One.-.The.Coach.Hub_0.2.3_x64-setup.exe"
                                          }
                   }
 }
